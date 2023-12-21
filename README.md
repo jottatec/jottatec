@@ -1,6 +1,6 @@
 ### Hello! I'm João Ribeiro 💪
 
-    An aspiring developer skilled in both front-end and back-end technologies hailing from Brazil.
+ ### An aspiring developer skilled in both front-end and back-end technologies hailing from Brazil. 
     
 - 👷‍♂️ I’m currently working on a Private Project
 
